@@ -1,1 +1,1 @@
-# DTI-Image-processing
+# Crop Disease Detection through Image Processing 
